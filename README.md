@@ -5,3 +5,5 @@
 [Day 2 - Clock](https://edo9k.github.io/js30/02-clock/)
 
 [Day 3 - CSS Variables](https://edo9k.github.io/js30/03-css-vars/)
+
+[Day 4 - Arrays](https://edo9k.github.io/js30/04-arrays/)
