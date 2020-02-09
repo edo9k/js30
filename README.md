@@ -14,3 +14,5 @@ All challenges come from this Wesbos's course/challenge [30 Day Vanilla JS Codin
 [Day 4 - Arrays](https://edo9k.github.io/js30/04-arrays/)
 
 [Day 5 - Flex Panels](https://edo9k.github.io/js30/05-flex-panels/)
+
+[Day 6 - Type Head](https://edo9k.github.io/js30/06-type-ahead)
