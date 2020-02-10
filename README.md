@@ -5,7 +5,7 @@ All challenges come from this Wesbos's course/challenge [30 Day Vanilla JS Codin
 :fire::metal::fire:
 
 
-[Day 1 - Drumkit](https://edo9k.github.io/js30/01-drumkit/index.html)
+[Day 1 - Drumkit](https://edo9k.github.io/js30/01-drumkit/)
 
 [Day 2 - Clock](https://edo9k.github.io/js30/02-clock/)
 
@@ -15,4 +15,7 @@ All challenges come from this Wesbos's course/challenge [30 Day Vanilla JS Codin
 
 [Day 5 - Flex Panels](https://edo9k.github.io/js30/05-flex-panels/)
 
-[Day 6 - Type Head](https://edo9k.github.io/js30/06-type-ahead)
+[Day 6 - Type Head](https://edo9k.github.io/js30/06-type-ahead/)
+
+[Day 7 - Arrays 2](https://edo9k.github.io/js30/07-arrays-b/)
+
