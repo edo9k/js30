@@ -19,3 +19,5 @@ All challenges come from this Wesbos's course/challenge [30 Day Vanilla JS Codin
 
 [Day 7 - Arrays 2](https://edo9k.github.io/js30/07-arrays-b/)
 
+[Day 8 - Canvas](https://edo9k.github.io/js30/08-canvas/)
+
