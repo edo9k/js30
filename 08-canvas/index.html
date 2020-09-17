@@ -53,6 +53,11 @@
           }
         }
 
+        const addMessage = () => {
+          ctx.font = "30px Sans"
+          ctx.fillText("Drag to Draw", 200, 200)
+        }
+
         canvas.addEventListener('mousedown', e => {
           isDrawing = true
           last = {x: e.offsetX, y: e.offsetY}
@@ -61,6 +66,7 @@
         canvas.addEventListener('mousemove', draw)
         canvas.addEventListener('mouseup', () => isDrawing = false)
         canvas.addEventListener('mouseout', () => isDrawing = false)
+        addMessage()
       }
 
       main()
